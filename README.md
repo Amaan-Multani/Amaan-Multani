@@ -27,8 +27,9 @@ Focused on **Virtual Reality Development (Unreal Engine 5)** and **Core Java / D
 
 <p align="left">
   <img src="https://streak-stats.demolab.com?user=Amaan-Multani&theme=radical&hide_border=true" alt="Amaan's Streak Stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Amaan-Multani&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Amaan-Multani&style=flat-square&color=blue&label=PROFILE+VIEWS)
 
 ---
 
