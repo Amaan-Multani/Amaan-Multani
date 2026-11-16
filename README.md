@@ -26,8 +26,8 @@ Focused on **Virtual Reality Development (Unreal Engine 5)** and **Core Java / D
 ### 📊 GitHub Activity & Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amaan-Multani&show_icons=true&theme=radical&hide_border=true" alt="Amaan's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amaan-Multani&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=Amaan-Multani&theme=radical&hide_border=true" alt="Amaan's Streak Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Amaan-Multani&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
